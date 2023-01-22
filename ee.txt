@@ -1,0 +1,63 @@
+<p><a href="/global_engine/download_custom.aspx?fileid=6736624e-2fc9-408f-9595-4b53122c85c4.pdf&amp;filename=mix.pdf" id="cdlCustomFieldValueIDLogo_fileDownload" target="_blank" style="">Download File</a> <a href="javascript:void(0);" id="cdlCustomFieldValueIDLogo_fileDelete" onclick="deleteCustomFile_cdlCustomFieldValueIDLogo();" style="">(Delete)</a><input type="button" id="cdlCustomFieldValueIDLogo_fileUpload" onclick="openFileUploadDialog('cdlCustomFieldValueIDLogo');" value="Upload File" class="formbutton" style="display: none;"><input type="hidden" id="cdlCustomFieldValueIDLogo_hiddenGuid" name="cdlCustomFieldValueIDLogo" value="6736624e-2fc9-408f-9595-4b53122c85c4"><input type="hidden" id="cdlCustomFieldValueIDLogo_filename" name="cdlCustomFieldValueIDLogo" value="mix.pdf"><input type="hidden" id="cdlCustomFieldValueIDLogo_cleanup" name="lCustomFieldFileCleanupList" value=""><script type="text/javascript">
+
+
+	function deleteCustomFile_cdlCustomFieldValueIDLogo()
+	{
+		if (confirm("Are you sure you want to delete this file?"))
+		{
+			$('#cdlCustomFieldValueIDLogo_fileDownload').hide();
+			$('#cdlCustomFieldValueIDLogo_fileDelete').hide();
+			$('#cdlCustomFieldValueIDLogo_fileUpload').show();
+			$('#cdlCustomFieldValueIDLogo_cleanup').val($('#cdlCustomFieldValueIDLogo_cleanup').val()+$('#cdlCustomFieldValueIDLogo_hiddenGuid').val()+'|'+$('#cdlCustomFieldValueIDLogo_filename').val()+'||');
+			$('#cdlCustomFieldValueIDLogo_filename').val('');			$('#cdlCustomFieldValueIDLogo_hiddenGuid').val('');			$('#cdlCustomFieldValueIDLogo').val(null);
+		}
+	}
+</script><script type="text/javascript">
+	$(document).ready(function() {
+		$('#cdlCustomFieldValueIDLogo_fileDownload').hide();
+		$('#cdlCustomFieldValueIDLogo_fileDelete').hide();
+		$('#cdlCustomFieldValueIDLogo_fileUpload').show();
+	});
+</script><br><i>Please provide a company Logo *(we recommend that the file size does not exceed 2MB). </i>
+<a href="/global_engine/download_custom.aspx?fileid=.&amp;filename=&amp;blnIsPublic=2" id="cdlCustomFieldValueIDLogo_fileDownload" target="_blank" style="display: none;">Download File</a> <a href="javascript:void(0);" id="cdlCustomFieldValueIDLogo_fileDelete" onclick="deleteCustomFile_cdlCustomFieldValueIDLogo();" style="display: none;">(Delete)</a><input type="button" id="cdlCustomFieldValueIDLogo_fileUpload" onclick="openFileUploadDialog('cdlCustomFieldValueIDLogo');" value="Upload File" class="formbutton" style=""><input type="hidden" id="cdlCustomFieldValueIDLogo_hiddenGuid" name="cdlCustomFieldValueIDLogo" value=""><input type="hidden" id="cdlCustomFieldValueIDLogo_filename" name="cdlCustomFieldValueIDLogo" value=""><input type="hidden" id="cdlCustomFieldValueIDLogo_cleanup" name="lCustomFieldFileCleanupList" value=""><script type="text/javascript">
+
+
+	function deleteCustomFile_cdlCustomFieldValueIDLogo()
+	{
+		if (confirm("Are you sure you want to delete this file?"))
+		{
+			$('#cdlCustomFieldValueIDLogo_fileDownload').hide();
+			$('#cdlCustomFieldValueIDLogo_fileDelete').hide();
+			$('#cdlCustomFieldValueIDLogo_fileUpload').show();
+			$('#cdlCustomFieldValueIDLogo_cleanup').val($('#cdlCustomFieldValueIDLogo_cleanup').val()+$('#cdlCustomFieldValueIDLogo_hiddenGuid').val()+'|'+$('#cdlCustomFieldValueIDLogo_filename').val()+'||');
+			$('#cdlCustomFieldValueIDLogo_filename').val('');			$('#cdlCustomFieldValueIDLogo_hiddenGuid').val('');			$('#cdlCustomFieldValueIDLogo').val(null);
+		}
+	}
+</script><script type="text/javascript">
+	$(document).ready(function() {
+		$('#cdlCustomFieldValueIDLogo_fileDownload').hide();
+		$('#cdlCustomFieldValueIDLogo_fileDelete').hide();
+		$('#cdlCustomFieldValueIDLogo_fileUpload').show();
+	});
+</script><br><i>Please provide a company Logo *(we recommend that the file size does not exceed 2MB). </i>
+<a href="/global_engine/download_custom.aspx?fileid=.&amp;filename=&amp;blnIsPublic=2" id="cdlCustomFieldValueIDLogo_fileDownload" target="_blank" style="display: none;">Download File</a> <a href="javascript:void(0);" id="cdlCustomFieldValueIDLogo_fileDelete" onclick="deleteCustomFile_cdlCustomFieldValueIDLogo();" style="display: none;">(Delete)</a><input type="button" id="cdlCustomFieldValueIDLogo_fileUpload" onclick="openFileUploadDialog('cdlCustomFieldValueIDLogo');" value="Upload File" class="formbutton" style=""><input type="hidden" id="cdlCustomFieldValueIDLogo_hiddenGuid" name="cdlCustomFieldValueIDLogo" value=""><input type="hidden" id="cdlCustomFieldValueIDLogo_filename" name="cdlCustomFieldValueIDLogo" value=""><input type="hidden" id="cdlCustomFieldValueIDLogo_cleanup" name="lCustomFieldFileCleanupList" value=""><script type="text/javascript">
+
+
+	function deleteCustomFile_cdlCustomFieldValueIDLogo()
+	{
+		if (confirm("Are you sure you want to delete this file?"))
+		{
+			$('#cdlCustomFieldValueIDLogo_fileDownload').hide();
+			$('#cdlCustomFieldValueIDLogo_fileDelete').hide();
+			$('#cdlCustomFieldValueIDLogo_fileUpload').show();
+			$('#cdlCustomFieldValueIDLogo_cleanup').val($('#cdlCustomFieldValueIDLogo_cleanup').val()+$('#cdlCustomFieldValueIDLogo_hiddenGuid').val()+'|'+$('#cdlCustomFieldValueIDLogo_filename').val()+'||');
+			$('#cdlCustomFieldValueIDLogo_filename').val('');			$('#cdlCustomFieldValueIDLogo_hiddenGuid').val('');			$('#cdlCustomFieldValueIDLogo').val(null);
+		}
+	}
+</script><script type="text/javascript">
+	$(document).ready(function() {
+		$('#cdlCustomFieldValueIDLogo_fileDownload').hide();
+		$('#cdlCustomFieldValueIDLogo_fileDelete').hide();
+		$('#cdlCustomFieldValueIDLogo_fileUpload').show();
+	});
+</script><br><i>Please provide a company Logo *(we recommend that the file size does not exceed 2MB). </i></p>
